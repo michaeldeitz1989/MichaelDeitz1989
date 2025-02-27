@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Many things as there is always so much to learn.
 - 💞️ I want to collaborate on a project and learn more code!
 - 📫 How to reach me ... email Michaeladeitz1989@gmail.com or I also have a discord. https://discord.gg/FcTfJggfCR
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a father!
 
 <!---
