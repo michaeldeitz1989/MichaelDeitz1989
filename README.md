@@ -1,4 +1,4 @@
-# Sup, I'm Michael 👋  
+# Hello, I'm Michael 👋  
 
 I'm a **Triage Analyst** transitioning into **software development** with a strong focus on **C#** and **SQL**. Currently working on **Entity Framework** and building my own database.  
 
@@ -30,9 +30,8 @@ I'm a **Triage Analyst** transitioning into **software development** with a stro
 ---
 
 ## 📢 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](your-github-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-deitz-13287a231/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MichaelDeitz1989)  
+[![Twitch](https://img.shields.io/badge/Twitch-Channel-purple?style=for-the-badge&logo=twitch)](https://www.twitch.tv/michaeldeitz)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://x.com/michaelDeitz89)  
 
----
-
-This will make your GitHub profile stand out and showcase your journey effectively. Let me know if you want any modifications! 🚀
