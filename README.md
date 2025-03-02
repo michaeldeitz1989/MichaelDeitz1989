@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Michael Deitz
-- 👀 I’m interested in ... Football, Computers, and finance.
-- 🌱 I’m currently learning ... Many things as there is always so much to learn.
-- 💞️ I want to collaborate on a project and learn more code!
-- 📫 How to reach me ... email Michaeladeitz1989@gmail.com or I also have a discord. https://discord.gg/FcTfJggfCR
-- ⚡ Fun fact: ... I am a father!
+👋 Hi, I'm Michael Deitz!
+💻 Triage Analyst | Aspiring Developer
 
-<!---
-michaeldeitz1989/michaeldeitz1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I currently work in the insurance industry as a Triage Analyst, but my true passion lies in software development. I'm actively honing my skills in C# and SQL, working with Entity Framework, and even building my own database to solidify my expertise.
+
+🚀 On a mission to break into the development world
+📚 Constantly learning and improving my technical skills
+🤝 Open to collaborations on tech, product, or business ventures—let's build something great!
+
+🌊 Outside of tech: I love fishing, hitting the beach, and cheering for the Miami Dolphins.
+📩 Let's connect! Feel free to reach out anytime.
