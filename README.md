@@ -1,31 +1,50 @@
-# Hello, I'm Michael 👋  
+Hello, I'm Michael 👋
 
-I'm a **Triage Analyst** transitioning into **software development** with a strong focus on **C#** and **SQL**. Currently working on **Entity Framework** and building my own database.  
-
-🏖️ I love the **beach** & **fishing**  
-🏈 **Big Miami Dolphins fan**  
-
-💡 **Looking to connect?** Open to tech, product, and business collaborations!  
+I'm a Release Coordinator at Pearl Insurance, passionate about IT operations and transitioning into software development. I'm a beginner with C# and SQL, currently focusing on Entity Framework and building my own database.
 
 ---
 
-## 🌟 My Tech Journey  
-- 💻 Diving deep into **C#, SQL, and Entity Framework**  
-- 🔍 Focused on **database design & backend development**  
-- 🏗️ Currently building **personal projects** to strengthen my skills  
-- 🤝 Open for collaborations on **tech, product, or business**  
-- ⚡ **Fun Fact:** I enjoy fishing as much as I enjoy coding!  
+
+
+
+🏖️ I love the beach & fishing
+
+🏈 Big Miami Dolphins fan
+
+💡 Looking to connect? Open to tech, product, and business collaborations!
+
+🌟 My Tech Journey
+
+
+
 
 ---
+💻 Coordinating IT releases at Pearl Insurance using Azure DevOps and ensuring 100% SDLC compliance
 
-## 🛠 My Dev Arsenal  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+🔍 Learning C#, SQL, and Entity Framework as a beginner for backend development
+
+🏗️ Building personal projects to strengthen my database and coding skills
+
+🤝 Open for collaborations on tech, product, or business
+
+⚡ Fun Fact: I enjoy fishing as much as I enjoy coding!
+
+
+
+
+---
+🛠 My Dev Arsenal
+
+Release & Project Management: Coordinating IT releases, managing workflows, ensuring SDLC compliance
+
+Technical Tools & Systems: Azure DevOps, CRM platforms, Git
+
+Analysis & Problem-Solving: Identifying issues, optimizing processes, supporting teams
+
+Programming Languages (Beginner): C#, SQL, Entity Framework
+
+
+
 
 ---
 
