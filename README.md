@@ -1,6 +1,6 @@
 Hello, I'm Michael 👋
 
-I'm a Release Coordinator at Pearl Insurance, passionate about IT operations and transitioning into software development. I'm a beginner with C# and SQL, currently focusing on Entity Framework and building my own database.
+I'm a Release Coordinator at Pearl Insurance, passionate about IT operations. I'm a beginner with C# and SQL, currently focusing on Entity Framework and building my own database.
 
 ---
 
